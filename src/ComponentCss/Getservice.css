@@ -1,0 +1,144 @@
+.service-details1{
+    background: #2b4c75;
+
+}
+.service-details2{
+    background: #ffa903;
+
+}
+
+.service-details3{
+    background: #2b4c75;
+
+}
+
+
+
+
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-left: calc(var(--bs-gutter-x)*-.5);
+    margin-right: calc(var(--bs-gutter-x)*-.5);
+    margin-top: calc(var(--bs-gutter-y)*-1); */
+}
+@media (min-width: 992px){
+    .col-lg-4 {
+        flex: 0 0 auto;
+        width: 33.33333333%;
+    }
+}
+.dark-theme .bg_1 {
+    background: #2b4c75;
+}
+
+.bg_1{
+    background: #2b4c75;
+}
+.bg_3 {
+    background: #002149;
+}
+@media screen and (min-width: 1300px) and (max-width: 1670px){
+    .service_inner .service_content {
+        margin-bottom: 30px;
+    }
+}
+
+.align-self-center {
+    align-self: center!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.service_inner .icon_img {
+    flex-shrink: 0;
+    position: relative;
+}
+.service_inner .main_img {
+    align-self: end;
+    margin-left: auto;
+    text-align: right;
+}
+.img {
+    max-width: 100%;
+}
+.bg_2 {
+    background: #ffa903;
+  
+}
+.service_inner {
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+    padding-left: 55px;
+    padding-top: 25px;
+    transition: all .5s ease-in;
+}
+
+.service_inner .icon_img img {
+    height: 59px;
+    min-height: 59px;
+    position: relative;
+    width: 59px;
+    z-index: 9;
+}
+.img{
+    max-width: 100%;
+}
+.services_content_flex_cenrer {
+    margin-left: 20px;
+}
+.service_inner .service_content h4 a {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+}
+a:hover {
+    color: #ffa903;
+  
+    outline: none;
+    text-decoration: none;
+    transition: all .5s ease;
+}
+.dark-theme .bg_3 {
+    background: #0f3665;
+}
+.service_inner .icon_img {
+    flex-shrink: 0;
+    position: relative;
+}
+.service_inner .icon_img img {
+    height: 59px;
+    min-height: 59px;
+    position: relative;
+    width: 59px;
+    z-index: 9;
+}
+img, svg {
+    vertical-align: middle;
+}
+.services_content_flex_cenrer {
+    margin-left: 20px;
+}
+@media screen and (min-width: 1300px) and (max-width: 1670px){
+    .service_inner .service_content h6 {
+        letter-spacing: 3px;
+    }
+}
+
+.service_inner .service_content h6 {
+    color: #ffa903;
+ 
+    font-size: 14px;
+    letter-spacing: 5px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.service_inner .service_content h4 {
+    color: #fff;
+ 
+    margin-bottom: 30px;
+    margin-top: 10px;
+}

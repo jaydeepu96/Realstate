@@ -1,0 +1,28 @@
+/* Define your custom styles here */
+
+.custom-navbar {
+    background-color: #333;
+    padding: 10px 20px;
+    border-radius: 0;
+  }
+  
+  .custom-dropdown {
+    background-color: #444;
+  }
+  
+  .custom-dropdown .dropdown-menu {
+    background-color: #444;
+  }
+  
+  .custom-link {
+    color: #fff;
+    margin: 0 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .custom-link:hover {
+    color: #ff9900;
+  }
+  
