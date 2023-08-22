@@ -80,7 +80,7 @@ const Footer = () => {
                     <p style={{color:"white"}}>Who are looking for Extraordinary<br></br> projects need vision &amp; <br></br>precision to be exceptional. <br></br>They need Builderrine Construction Services.</p>
                     <form class="form-inline">
         {/* <input type="email" class="form-control" placeholder="Email Address" /> */}
-       <button type="submit" class="btn" style={{color:"white",}}>Subscribe</button>
+       <button type="submit" class="footbtn" style={{color:" #ff9900",textAlign:"center",padding:"20px"}}>Subscribe</button>
     </form>
                     </Col>
                     <Col md={3}  style={{marginLeft:"100px"}}>

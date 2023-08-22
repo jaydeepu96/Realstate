@@ -66,15 +66,15 @@ const Fanfact = () => {
                         </div>
                         <div className='section_bottom'>
                             <div className='row'>
-                            <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={cardImage} alt="icon"/></div><div class="fun_content"><h1><span>33</span></h1><p>Years of Experience</p></div></div></div>
-                        <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={p2Img} alt="icon"/></div><div class="fun_content"><h1><span>100</span></h1><p>Projects Completed</p></div></div></div>
-                        <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={p3Img} alt="icon"/></div><div class="fun_content"><h1><span>300</span></h1><p>Expert Builders</p></div></div></div>
-                        <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={p4Img} alt="icon"/></div><div class="fun_content"><h1><span>36</span></h1><p>Ongoing Project</p></div></div></div>
+                            <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={cardImage} alt="icon"/></div><div class="funcont"><h1><span>33</span></h1><p>Years of Experience</p></div></div></div>
+                        <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={p2Img} alt="icon"/></div><div class="funcont"><h1><span>100</span></h1><p>Projects Completed</p></div></div></div>
+                        <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={p3Img} alt="icon"/></div><div class="funcont"><h1><span>300</span></h1><p>Expert Builders</p></div></div></div>
+                        <div class="col-lg-6 col-sm-6"><div class="funbox1"><div class="fun_img"><img src={p4Img} alt="icon"/></div><div class="funcont"><h1><span>36</span></h1><p>Ongoing Project</p></div></div></div>
                             </div>
                        
                         </div>
                     </div>
-                    <div class="col-lg-4"><div class="man_img"><img src={gilImg} alt="icon"/></div></div>
+                    <div class="fanimg"><div class="man_img"><img src={gilImg} alt="icon"/></div></div>
                 </div>
                </div>
 
